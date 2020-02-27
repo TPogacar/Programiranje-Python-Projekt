@@ -56,3 +56,4 @@ userID = "76561198069577640"
 SteamData(userID)
 
 # tko za enkrat neki malga narejenga
+# dela:D
